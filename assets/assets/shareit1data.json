@@ -1,0 +1,95 @@
+{
+    "bookTitle":"Share It 1",
+    "prefixUrl":"https://lamvohieuan.github.io/eng-shareit1/",
+    "units":[
+        {
+            "unitTitle":"Table of content",
+            "pages": [    
+                { "pageNumber": 1,  "imgUrl": "001.jpg", "sounds": [] },
+                { "pageNumber": 2,  "imgUrl": "002.jpg", "sounds": [] },
+                { "pageNumber": 3,  "imgUrl": "003.jpg", "sounds": [] },
+                { "pageNumber": 4,  "imgUrl": "004.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Welcome",
+            "pages": [    
+                { "pageNumber": 5,  "imgUrl": "005.jpg", "sounds": ["005_1.mp3"] },
+                { "pageNumber": 6,  "imgUrl": "006.jpg", "sounds": ["006_2.mp3"] },
+                { "pageNumber": 7,  "imgUrl": "007.jpg", "sounds": ["007_1.mp3"] },
+                { "pageNumber": 8,  "imgUrl": "008.jpg", "sounds": ["008_1.mp3","008_2.mp3","008_3.mp3"] },
+                { "pageNumber": 9,  "imgUrl": "009.jpg", "sounds": ["009_1.mp3","009_2.mp3"] },
+                { "pageNumber": 10,  "imgUrl": "010.jpg", "sounds": ["010_1.mp3","010_2.mp3","010_3.mp3"] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 1: At School",
+            "pages": [    
+                { "pageNumber": 11,  "imgUrl": "011.jpg", "sounds": ["011_1.mp3","011_2.mp3"] },
+                { "pageNumber": 12,  "imgUrl": "012.jpg", "sounds": ["012_1.mp3","012_2.mp3"] },
+                { "pageNumber": 13,  "imgUrl": "013.jpg", "sounds": ["013_1.mp3"] },
+                { "pageNumber": 14,  "imgUrl": "014.jpg", "sounds": [] },
+                { "pageNumber": 15,  "imgUrl": "015.jpg", "sounds": ["015_1.mp3","015_2.mp3"] },
+                { "pageNumber": 16,  "imgUrl": "016.jpg", "sounds": ["016_1.mp3","016_2.mp3"] },
+                { "pageNumber": 17,  "imgUrl": "017.jpg", "sounds": ["017_1.mp3"] },
+                { "pageNumber": 18,  "imgUrl": "018.jpg", "sounds": ["018_1.mp3"] },
+                { "pageNumber": 19,  "imgUrl": "019.jpg", "sounds": ["019_1.mp3", "019_2.mp3", "019_3.mp3", "019_4.mp3"] },
+                { "pageNumber": 20,  "imgUrl": "020.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 2: Family And Friends",
+            "pages": [    
+                { "pageNumber": 21,  "imgUrl": "021.jpg", "sounds": ["021_1.mp3", "021_2.mp3"] },
+                { "pageNumber": 22,  "imgUrl": "022.jpg", "sounds": ["022_1.mp3","022_2.mp3"] },
+                { "pageNumber": 23,  "imgUrl": "023.jpg", "sounds": ["023_1.mp3"] },
+                { "pageNumber": 24,  "imgUrl": "024.jpg", "sounds": [] },
+                { "pageNumber": 25,  "imgUrl": "025.jpg", "sounds": ["025_1.mp3", "025_2.mp3"] },
+                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": ["026-1.mp3", "026_2.mp3"] },
+                { "pageNumber": 27,  "imgUrl": "027.jpg", "sounds": ["027_1.mp3"] },
+                { "pageNumber": 28,  "imgUrl": "028.jpg", "sounds": ["028_1.mp3"] },
+                { "pageNumber": 29,  "imgUrl": "029.jpg", "sounds": ["029_1.mp3","029_2.mp3","029_3.mp3","029_4.mp3"] },
+                { "pageNumber": 30,  "imgUrl": "030.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Share the World 1",
+            "pages": [    
+                { "pageNumber": 31,  "imgUrl": "031.jpg", "sounds": ["031_1.mp3"] },
+                { "pageNumber": 32,  "imgUrl": "032.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Example Practice 1",
+            "pages": [    
+                { "pageNumber": 33,  "imgUrl": "033.jpg", "sounds": ["033_1.mp3"] },
+                { "pageNumber": 34,  "imgUrl": "034.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 3: Jobs",
+            "pages": [    
+                { "pageNumber": 35,  "imgUrl": "035.jpg", "sounds": ["035_1.mp3", "035_2.mp3"] },
+                { "pageNumber": 36,  "imgUrl": "036.jpg", "sounds": ["036_1.mp3", "036_2.mp3"] },
+                { "pageNumber": 37,  "imgUrl": "037.jpg", "sounds": ["037_1.mp3"] },
+                { "pageNumber": 38,  "imgUrl": "038.jpg", "sounds": [] },
+                { "pageNumber": 39,  "imgUrl": "039.jpg", "sounds": ["039_1.mp3", "039_2.mp3"] },
+                { "pageNumber": 40,  "imgUrl": "040.jpg", "sounds": ["040_1.mp3", "040_2.mp3"] },
+                { "pageNumber": 41,  "imgUrl": "041.jpg", "sounds": ["041_1.mp3"] },
+                { "pageNumber": 42,  "imgUrl": "042.jpg", "sounds": ["042_1.mp3"] },
+                { "pageNumber": 43,  "imgUrl": "043.jpg", "sounds": ["043_1.mp3","043_2.mp3","043_3.mp3","043_4.mp3"] },
+                { "pageNumber": 44,  "imgUrl": "044.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 4: At Home",
+            "pages": [    
+                { "pageNumber": 45,  "imgUrl": "045.jpg", "sounds": ["045_1.mp3","045_2.mp3"] },
+                { "pageNumber": 46,  "imgUrl": "046.jpg", "sounds": ["046_1.mp3", "046_2.mp3"] },
+                { "pageNumber": 47,  "imgUrl": "047.jpg", "sounds": ["047_1.mp3"] },
+                { "pageNumber": 48,  "imgUrl": "048.jpg", "sounds": [] },
+                { "pageNumber": 49,  "imgUrl": "049.jpg", "sounds": ["049_1.mp3", "049_2.mp3"] }
+            ]
+        }
+    ]
+}
