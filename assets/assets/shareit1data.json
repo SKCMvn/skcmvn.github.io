@@ -137,7 +137,7 @@
                 { "pageNumber": 75,  "imgUrl": "075.jpg", "sounds": ["075_1.mp3"] },
                 { "pageNumber": 76,  "imgUrl": "076.jpg", "sounds": ["076_1.mp3"] },
                 { "pageNumber": 77,  "imgUrl": "077.jpg", "sounds": ["077_1.mp3","077_2.mp3","077_3.mp3","077_4.mp3"] },
-                { "pageNumber": 78,  "imgUrl": "078.jpg", "sounds": [] },
+                { "pageNumber": 78,  "imgUrl": "078.jpg", "sounds": [] }
             ]
         },
         {
