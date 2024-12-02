@@ -45,7 +45,7 @@
                 { "pageNumber": 23,  "imgUrl": "023.jpg", "sounds": ["023_1.mp3"] },
                 { "pageNumber": 24,  "imgUrl": "024.jpg", "sounds": [] },
                 { "pageNumber": 25,  "imgUrl": "025.jpg", "sounds": ["025_1.mp3", "025_2.mp3"] },
-                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": ["026-1.mp3", "026_2.mp3"] },
+                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": ["026_1.mp3", "026_2.mp3"] },
                 { "pageNumber": 27,  "imgUrl": "027.jpg", "sounds": ["027_1.mp3"] },
                 { "pageNumber": 28,  "imgUrl": "028.jpg", "sounds": ["028_1.mp3"] },
                 { "pageNumber": 29,  "imgUrl": "029.jpg", "sounds": ["029_1.mp3","029_2.mp3","029_3.mp3","029_4.mp3"] },
