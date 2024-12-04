@@ -1,0 +1,33 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Share It 1 Student Book",
+        "bookpath": "assets/books/shareit1data.json",
+        "img": "assets/books/eng-shareit1/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit1/"
+      },
+      {
+        "id": 2,
+        "title": "Share It 1 Workbook",
+        "bookpath": "assets/books/shareit1workbookdata.json",
+        "img": "assets/books/eng-shareit1_workbook/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit1_workbook/"
+      },
+      {
+        "id": 3,
+        "title": "Share It 1 Unit Test",
+        "bookpath": "assets/books/shareit1unittestdata.json",
+        "img": "assets/books/eng-shareit1-unittest/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit1-unittest/"
+      },
+      {
+        "id": 4,
+        "title": "Share It 2 Student Book",
+        "bookpath": "assets/books/shareit2data.json",
+        "img": "assets/books/eng-shareit2/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit2/"
+      }
+    ]
+  }
+  

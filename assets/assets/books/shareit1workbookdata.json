@@ -1,0 +1,183 @@
+{
+    "bookTitle":"Share It 1",
+    "prefixUrl":"assets/books/eng-shareit1/",
+    "units":[
+        {
+            "unitTitle":"Table of content",
+            "pages": [    
+                { "pageNumber": 1,  "imgUrl": "001.jpg", "sounds": [] },
+                { "pageNumber": 2,  "imgUrl": "002.jpg", "sounds": [] },
+                { "pageNumber": 3,  "imgUrl": "003.jpg", "sounds": [] },
+                { "pageNumber": 4,  "imgUrl": "004.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Welcome",
+            "pages": [    
+                { "pageNumber": 5,  "imgUrl": "005.jpg", "sounds": [] },
+                { "pageNumber": 6,  "imgUrl": "006.jpg", "sounds": [] },
+                { "pageNumber": 7,  "imgUrl": "007.jpg", "sounds": [] },
+                { "pageNumber": 8,  "imgUrl": "008.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 1: At School",
+            "pages": [    
+                { "pageNumber": 9,  "imgUrl": "009.jpg", "sounds": [] },
+                { "pageNumber": 10,  "imgUrl": "010.jpg", "sounds": [] },
+                { "pageNumber": 11,  "imgUrl": "011.jpg", "sounds": [] },
+                { "pageNumber": 12,  "imgUrl": "012.jpg", "sounds": [] },
+                { "pageNumber": 13,  "imgUrl": "013.jpg", "sounds": [] },
+                { "pageNumber": 14,  "imgUrl": "014.jpg", "sounds": [] },
+                { "pageNumber": 15,  "imgUrl": "015.jpg", "sounds": [] },
+                { "pageNumber": 16,  "imgUrl": "016.jpg", "sounds": [] },
+                { "pageNumber": 17,  "imgUrl": "017.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 2: Family And Friends",
+            "pages": [    
+                { "pageNumber": 18,  "imgUrl": "018.jpg", "sounds": [] },
+                { "pageNumber": 19,  "imgUrl": "019.jpg", "sounds": [] },
+                { "pageNumber": 20,  "imgUrl": "020.jpg", "sounds": [] },
+                { "pageNumber": 21,  "imgUrl": "021.jpg", "sounds": [] },
+                { "pageNumber": 22,  "imgUrl": "022.jpg", "sounds": [] },
+                { "pageNumber": 23,  "imgUrl": "023.jpg", "sounds": [] },
+                { "pageNumber": 24,  "imgUrl": "024.jpg", "sounds": [] },
+                { "pageNumber": 25,  "imgUrl": "025.jpg", "sounds": [] },
+                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Share the World 1",
+            "pages": [    
+                { "pageNumber": 27,  "imgUrl": "027.jpg", "sounds": [] },
+                { "pageNumber": 28,  "imgUrl": "028.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 3: Jobs",
+            "pages": [    
+                { "pageNumber": 29,  "imgUrl": "02.jpg", "sounds": [] },
+                { "pageNumber": 30,  "imgUrl": "030.jpg", "sounds": [] },
+                { "pageNumber": 31,  "imgUrl": "031.jpg", "sounds": [] },
+                { "pageNumber": 32,  "imgUrl": "032.jpg", "sounds": [] },
+                { "pageNumber": 33,  "imgUrl": "033.jpg", "sounds": [] },
+                { "pageNumber": 34,  "imgUrl": "034.jpg", "sounds": [] },
+                { "pageNumber": 35,  "imgUrl": "035.jpg", "sounds": [] },
+                { "pageNumber": 36,  "imgUrl": "036.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 4: At Home",
+            "pages": [    
+                { "pageNumber": 37,  "imgUrl": "037.jpg", "sounds": [] },
+                { "pageNumber": 38,  "imgUrl": "038.jpg", "sounds": [] },
+                { "pageNumber": 39,  "imgUrl": "039.jpg", "sounds": [] },
+                { "pageNumber": 40,  "imgUrl": "040.jpg", "sounds": [] },
+                { "pageNumber": 41,  "imgUrl": "041.jpg", "sounds": [] },
+                { "pageNumber": 42,  "imgUrl": "042.jpg", "sounds": [] },
+                { "pageNumber": 43,  "imgUrl": "043.jpg", "sounds": [] },
+                { "pageNumber": 44,  "imgUrl": "044.jpg", "sounds": [] },
+                { "pageNumber": 45,  "imgUrl": "045.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Share The World 2",
+            "pages": [   
+                { "pageNumber": 46,  "imgUrl": "046.jpg", "sounds": [] },
+                { "pageNumber": 47,  "imgUrl": "047.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 5: My Pets",
+            "pages": [   
+                { "pageNumber": 48,  "imgUrl": "048.jpg", "sounds": [] },
+                { "pageNumber": 49,  "imgUrl": "049.jpg", "sounds": [] },
+                { "pageNumber": 50,  "imgUrl": "050.jpg", "sounds": [] },
+                { "pageNumber": 51,  "imgUrl": "051.jpg", "sounds": [] },
+                { "pageNumber": 52,  "imgUrl": "052.jpg", "sounds": [] },
+                { "pageNumber": 53,  "imgUrl": "053.jpg", "sounds": [] },
+                { "pageNumber": 54,  "imgUrl": "054.jpg", "sounds": [] },
+                { "pageNumber": 55,  "imgUrl": "055.jpg", "sounds": [] },
+                { "pageNumber": 56,  "imgUrl": "056.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 6: At The Fair",
+            "pages": [   
+                { "pageNumber": 57,  "imgUrl": "057.jpg", "sounds": [] },
+                { "pageNumber": 58,  "imgUrl": "058.jpg", "sounds": [] },
+                { "pageNumber": 59,  "imgUrl": "059.jpg", "sounds": [] },
+                { "pageNumber": 60,  "imgUrl": "060.jpg", "sounds": [] },
+                { "pageNumber": 61,  "imgUrl": "061.jpg", "sounds": [] },
+                { "pageNumber": 62,  "imgUrl": "062.jpg", "sounds": [] },
+                { "pageNumber": 63,  "imgUrl": "063.jpg", "sounds": [] },
+                { "pageNumber": 64,  "imgUrl": "064.jpg", "sounds": [] },
+                { "pageNumber": 65,  "imgUrl": "065.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Share The World 3",
+            "pages": [   
+                { "pageNumber": 66,  "imgUrl": "066.jpg", "sounds": [] },
+                { "pageNumber": 67,  "imgUrl": "067.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 7: At the park",
+            "pages": [   
+                { "pageNumber": 68,  "imgUrl": "068.jpg", "sounds": [] },
+                { "pageNumber": 69,  "imgUrl": "069.jpg", "sounds": [] },
+                { "pageNumber": 70,  "imgUrl": "070.jpg", "sounds": [] },
+                { "pageNumber": 71,  "imgUrl": "071.jpg", "sounds": [] },
+                { "pageNumber": 72,  "imgUrl": "072.jpg", "sounds": [] },
+                { "pageNumber": 73,  "imgUrl": "073.jpg", "sounds": [] },
+                { "pageNumber": 74,  "imgUrl": "074.jpg", "sounds": [] },
+                { "pageNumber": 75,  "imgUrl": "075.jpg", "sounds": [] },
+                { "pageNumber": 76,  "imgUrl": "076.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Unit 8: a Picnic",
+            "pages": [   
+                { "pageNumber": 77,  "imgUrl": "077.jpg", "sounds": [] },
+                { "pageNumber": 78,  "imgUrl": "078.jpg", "sounds": [] },
+                { "pageNumber": 79,  "imgUrl": "079.jpg", "sounds": [] },
+                { "pageNumber": 80,  "imgUrl": "080.jpg", "sounds": [] },
+                { "pageNumber": 81,  "imgUrl": "081.jpg", "sounds": [] },
+                { "pageNumber": 82,  "imgUrl": "082.jpg", "sounds": [] },
+                { "pageNumber": 83,  "imgUrl": "083.jpg", "sounds": [] },
+                { "pageNumber": 84,  "imgUrl": "084.jpg", "sounds": [] },
+                { "pageNumber": 85,  "imgUrl": "085.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Share The World 4",
+            "pages": [   
+                { "pageNumber": 86,  "imgUrl": "086.jpg", "sounds": [] },
+                { "pageNumber": 87,  "imgUrl": "087.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"Workbook",
+            "pages": [   
+                { "pageNumber": 88,  "imgUrl": "088.jpg", "sounds": [] },
+                { "pageNumber": 89,  "imgUrl": "089.jpg", "sounds": [] },
+                { "pageNumber": 90,  "imgUrl": "090.jpg", "sounds": [] },
+                { "pageNumber": 91,  "imgUrl": "091.jpg", "sounds": [] },
+                { "pageNumber": 92,  "imgUrl": "092.jpg", "sounds": [] },
+                { "pageNumber": 93,  "imgUrl": "093.jpg", "sounds": [] },
+                { "pageNumber": 94,  "imgUrl": "094.jpg", "sounds": [] },
+                { "pageNumber": 95,  "imgUrl": "095.jpg", "sounds": [] }
+            ]
+        },
+        {
+            "unitTitle":"End",
+            "pages": [   
+                { "pageNumber": 96,  "imgUrl": "096.jpg", "sounds": [] },
+                { "pageNumber": 97,  "imgUrl": "097.jpg", "sounds": [] }
+            ]
+        }
+    ]
+}
