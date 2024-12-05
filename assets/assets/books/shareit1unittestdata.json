@@ -9,53 +9,53 @@
                 { "pageNumber": 2, "imgUrl": "002.jpg", "sounds": [] },
                 { "pageNumber": 3, "imgUrl": "003.jpg", "sounds": [] },
                 { "pageNumber": 4, "imgUrl": "004.jpg", "sounds": ["004_1.mp3", "004_2.mp3"] },
-                { "pageNumber": 5, "imgUrl": "004.jpg", "sounds": [] }
+                { "pageNumber": 5, "imgUrl": "004.jpg", "sounds": [] },
+                { "pageNumber": 6, "imgUrl": "006.jpg", "sounds": [] }
             ]
         },
         {
             "unitTitle":"Unit 2: Family And Friends",
             "pages": [    
-                { "pageNumber": 6, "imgUrl": "006.jpg", "sounds": [] },
                 { "pageNumber": 7, "imgUrl": "007.jpg", "sounds": [] },
                 { "pageNumber": 8, "imgUrl": "008.jpg", "sounds": [] },
                 { "pageNumber": 9, "imgUrl": "009.jpg", "sounds": ["009_1.mp3", "009_2.mp3"] },
-                { "pageNumber": 10, "imgUrl": "010.jpg", "sounds": [] }
+                { "pageNumber": 10, "imgUrl": "010.jpg", "sounds": [] },
+                { "pageNumber": 11, "imgUrl": "011.jpg", "sounds": [] },
+                { "pageNumber": 12, "imgUrl": "012.jpg", "sounds": [] }
             ]
         },
         {
             "unitTitle":"Unit 3: Jobs",
             "pages": [    
-                { "pageNumber": 11, "imgUrl": "011.jpg", "sounds": [] },
-                { "pageNumber": 12, "imgUrl": "012.jpg", "sounds": [] },
                 { "pageNumber": 13, "imgUrl": "013.jpg", "sounds": [] },
                 { "pageNumber": 14, "imgUrl": "014.jpg", "sounds": ["014_1.mp3", "014_2.mp3"] },
-                { "pageNumber": 15, "imgUrl": "015.jpg", "sounds": [] }
+                { "pageNumber": 15, "imgUrl": "015.jpg", "sounds": [] },
+                { "pageNumber": 16, "imgUrl": "016.jpg", "sounds": [] }
             ]
         },
         {
             "unitTitle":"Unit 4: At Home",
             "pages": [    
-                { "pageNumber": 16, "imgUrl": "016.jpg", "sounds": [] },
                 { "pageNumber": 17, "imgUrl": "017.jpg", "sounds": [] },
                 { "pageNumber": 18, "imgUrl": "018.jpg", "sounds": [] },
                 { "pageNumber": 19, "imgUrl": "019.jpg", "sounds": ["019_1.mp3", "019_2.mp3"] },
-                { "pageNumber": 20, "imgUrl": "020.jpg", "sounds": [] }
+                { "pageNumber": 20, "imgUrl": "020.jpg", "sounds": [] },
+                { "pageNumber": 21, "imgUrl": "021.jpg", "sounds": [] }
             ]
         },
         {
             "unitTitle":"Unit 5: My Pets",
             "pages": [   
-                { "pageNumber": 21, "imgUrl": "021.jpg", "sounds": [] },
                 { "pageNumber": 22, "imgUrl": "022.jpg", "sounds": [] },
                 { "pageNumber": 23, "imgUrl": "023.jpg", "sounds": [] },
                 { "pageNumber": 24, "imgUrl": "024.jpg", "sounds": ["024_1.mp3", "024_2.mp3"] },
-                { "pageNumber": 25, "imgUrl": "025.jpg", "sounds": [] }
+                { "pageNumber": 25, "imgUrl": "025.jpg", "sounds": [] },
+                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": [] }
             ]
         },
         {
             "unitTitle":"Unit 6: At The Fair",
             "pages": [   
-                { "pageNumber": 26,  "imgUrl": "026.jpg", "sounds": [] },
                 { "pageNumber": 27,  "imgUrl": "027.jpg", "sounds": [] },
                 { "pageNumber": 28,  "imgUrl": "028.jpg", "sounds": [] },
                 { "pageNumber": 29,  "imgUrl": "029.jpg", "sounds": ["029_1.mp3", "029_2.mp3"] },
