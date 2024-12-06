@@ -2,6 +2,7 @@
     "books": [
       {
         "id": 1,
+        "countPage": 114,
         "title": "Share It 1 Student Book",
         "bookpath": "assets/books/shareit1data.json",
         "img": "assets/books/eng-shareit1/001.jpg",
@@ -9,6 +10,7 @@
       },
       {
         "id": 2,
+        "countPage": 98,
         "title": "Share It 1 Workbook",
         "bookpath": "assets/books/shareit1workbookdata.json",
         "img": "assets/books/eng-shareit1_workbook/001.jpg",
@@ -17,6 +19,7 @@
       {
         "id": 3,
         "title": "Share It 1 Unit Test",
+        "countPage": 31,
         "bookpath": "assets/books/shareit1unittestdata.json",
         "img": "assets/books/eng-shareit1-unittest/001.jpg",
         "preFixAssest": "assets/books/eng-shareit1-unittest/"
@@ -24,9 +27,18 @@
       {
         "id": 4,
         "title": "Share It 2 Student Book",
+        "countPage": 114,
         "bookpath": "assets/books/shareit2data.json",
         "img": "assets/books/eng-shareit2/001.jpg",
         "preFixAssest": "assets/books/eng-shareit2/"
+      },
+      {
+        "id": 5,
+        "title": "Share It 5 Student Book",
+        "countPage": 114,
+        "bookpath": "assets/books/shareit3data.json",
+        "img": "assets/books/eng-shareit3/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit3/"
       }
     ]
   }

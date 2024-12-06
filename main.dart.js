@@ -8958,11 +8958,12 @@ return A.H(null,r)}})
 return A.I($async$T4,r)},
 Gx:function Gx(a){this.a=a},
 a1g:function a1g(){},
-oM:function oM(a,b,c,d){var _=this
+oM:function oM(a,b,c,d,e){var _=this
 _.b=a
 _.c=b
 _.d=c
-_.e=d},
+_.e=d
+_.f=e},
 mh:function mh(a,b){this.c=a
 this.a=b},
 yW:function yW(a,b,c,d){var _=this
@@ -42309,7 +42310,7 @@ vP(){var s=0,r=A.J(t.H),q=this,p
 var $async$vP=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.C($.oA().Dn(q.a.c.c),$async$vP)
+return A.C($.oA().Dn(q.a.c.d),$async$vP)
 case 2:q.au(new p.a8L(q,b))
 return A.H(null,r)}})
 return A.I($async$vP,r)},
@@ -42382,27 +42383,28 @@ MY(a){var s=J.kk(a,new A.a8y(this),t.l7)
 return A.a3(s,!0,s.$ti.h("aO.E"))},
 acQ(){this.au(new A.a8Q(this))},
 Bs(a){if(a>=1&&a<=114)this.au(new A.a8I(this,a))},
-O(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=d.f
-b===$&&A.b()
-b=A.akG(A.lv(b+" - "+d.y,c,c,c,c,c,c))
+O(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.f
+a===$&&A.b()
+a=A.akG(A.lv(a+" - "+c.y,b,b,b,b,b,b))
 s=t.F
 r=A.a([],s)
-if(d.cx)r.push(A.v4(d.a6y(),2))
-r.push(A.v4(new A.dh(B.cZ,d.a6x(),c),3))
+if(c.cx)r.push(A.v4(c.a6y(),2))
+r.push(A.v4(new A.dh(B.cZ,c.a6x(),b),3))
 r=A.nF(r,B.ae,B.am,B.aW)
-q=A.kI(c,A.jj(B.BS,B.i,c),new A.a8E(a),c,"Ch\u1ecdn S\xe1ch Kh\xe1c")
-p=A.kI(c,A.jj(B.BP,B.i,c),d.gacP(),c,c)
-o=A.kI(c,A.jj(B.BW,B.i,c),d.gadk(),c,c)
-n=A.kI(c,A.jj(B.BV,B.i,c),d.gadm(),c,c)
-m=A.hD(c,c,4)
-l=A.kI(c,A.jj(B.lg,B.i,c),new A.a8F(d),c,c)
-k=d.x
-j=A.lz(c,c,B.i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c)
-i=A.Vx(c,c,c,c,c,c,c,c,c)
-h=t.b_
-g=J.FI(114,h)
-for(f=0;f<114;f=e){e=f+1
-g[f]=new A.uM(e,A.lv("Page "+e,c,c,c,new A.u(!0,B.i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c,c),B.jL,c,h)}return A.anx(b,r,A.Vx(c,A.nF(A.a([q,p,A.nF(A.a([o,n,m,l,A.Vx(c,new A.p5(g,k,new A.a8G(d),j,i,B.i,B.bU,c,t.CB),c,c,c,c,c,c,100),A.kI(c,A.jj(B.BR,B.i,c),new A.a8H(d),c,c),A.hD(c,c,20)],s),B.ae,B.am,B.aW)],s),B.ae,B.ig,B.aW),B.bU,c,c,50,c,c,c))}}
+q=A.kI(b,A.jj(B.BS,B.i,b),new A.a8E(a0),b,"Ch\u1ecdn S\xe1ch Kh\xe1c")
+p=A.kI(b,A.jj(B.BP,B.i,b),c.gacP(),b,b)
+o=A.kI(b,A.jj(B.BW,B.i,b),c.gadk(),b,b)
+n=A.kI(b,A.jj(B.BV,B.i,b),c.gadm(),b,b)
+m=A.hD(b,b,4)
+l=A.kI(b,A.jj(B.lg,B.i,b),new A.a8F(c),b,b)
+k=c.x
+j=A.lz(b,b,B.i,b,b,b,b,b,b,b,b,b,b,b,b,b,b,!0,b,b,b,b,b,b,b,b)
+i=A.Vx(b,b,b,b,b,b,b,b,b)
+h=c.a.c.b
+g=t.b_
+f=J.FI(h,g)
+for(e=0;e<h;e=d){d=e+1
+f[e]=new A.uM(d,A.lv("Page "+d,b,b,b,new A.u(!0,B.i,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b),b,b),B.jL,b,g)}return A.anx(a,r,A.Vx(b,A.nF(A.a([q,p,A.nF(A.a([o,n,m,l,A.Vx(b,new A.p5(f,k,new A.a8G(c),j,i,B.i,B.bU,b,t.CB),b,b,b,b,b,b,100),A.kI(b,A.jj(B.BR,B.i,b),new A.a8H(c),b,b),A.hD(b,b,20)],s),B.ae,B.am,B.aW)],s),B.ae,B.ig,B.aW),B.bU,b,b,50,b,b,b))}}
 A.a8K.prototype={
 $1(a){var s=this.a
 s.au(new A.a8J(s))},
@@ -42426,7 +42428,7 @@ A.a8L.prototype={
 $0(){var s=this.a,r=B.bA.BS(0,this.b,null)
 s.e=r
 s.f=J.aG(r,"bookTitle")
-s.Q=s.a.c.e
+s.Q=s.a.c.f
 r=J.aG(s.e,"units")
 s.r=r
 s.x=1
@@ -42565,14 +42567,14 @@ $S:0}
 A.ac1.prototype={
 $1(a){var s=J.at(a)
 s.i(a,"id")
-return new A.oM(s.i(a,"title"),s.i(a,"bookpath"),s.i(a,"img"),s.i(a,"preFixAssest"))},
+return new A.oM(s.i(a,"countPage"),s.i(a,"title"),s.i(a,"bookpath"),s.i(a,"img"),s.i(a,"preFixAssest"))},
 $S:309}
 A.ac0.prototype={
 $2(a,b){var s,r=null,q=this.a.d
 q===$&&A.b()
 s=q[b]
 q=new A.aS(12,12)
-return A.ahM(r,new A.Df(4,new A.cw(A.ah0(12),B.o),A.DH(A.a([A.v4(A.al2(new A.cs(q,q,B.z,B.z),A.ahP(s.d,B.y2,250,200),B.eg),1),new A.dh(B.cZ,A.lv(s.b,r,r,r,A.lz(r,r,r,r,r,r,r,r,r,r,r,16,r,r,B.hF,r,r,!0,r,r,r,r,r,r,r,r),B.dN,r),r)],t.F),B.cW,B.am,B.aW),r),B.aS,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ac_(a,s),r,r,r)},
+return A.ahM(r,new A.Df(4,new A.cw(A.ah0(12),B.o),A.DH(A.a([A.v4(A.al2(new A.cs(q,q,B.z,B.z),A.ahP(s.e,B.y2,200,150),B.eg),1),new A.dh(B.cZ,A.lv(s.c,r,r,r,A.lz(r,r,r,r,r,r,r,r,r,r,r,16,r,r,B.hF,r,r,!0,r,r,r,r,r,r,r,r),B.dN,r),r)],t.F),B.cW,B.am,B.aW),r),B.aS,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ac_(a,s),r,r,r)},
 $S:311}
 A.ac_.prototype={
 $0(){var s=A.ai3(new A.abZ(this.b),null,t.z)
