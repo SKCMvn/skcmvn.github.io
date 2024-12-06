@@ -8973,7 +8973,7 @@ _.x=1
 _.y=""
 _.Q=$
 _.as=450
-_.at=520
+_.at=500
 _.ax=b
 _.cy=_.cx=_.CW=_.ay=!1
 _.db=c
@@ -42416,7 +42416,7 @@ s=t.w
 p.CW=A.bZ(o,q,s).w.a.a<768
 o=p.c
 o.toString
-if(A.bZ(o,q,s).w.a.a>768){o=p.c
+if(A.bZ(o,q,s).w.a.a>800){o=p.c
 o.toString
 o=A.bZ(o,q,s).w
 r=p.c
@@ -42426,24 +42426,24 @@ o=r}else o=!1
 p.cx=o
 o=p.c
 o.toString
-if(A.bZ(o,q,s).w.a.a>768){o=p.c
+if(A.bZ(o,q,s).w.a.a>800){o=p.c
 o.toString
 o=A.bZ(o,q,s).w
 r=p.c
 r.toString
 r=o.a.a<A.bZ(r,q,s).w.a.b
 o=r}else o=!1
-p.as=o?700:450
+p.as=o?800:450
 o=p.c
 o.toString
-if(A.bZ(o,q,s).w.a.a>768){o=p.c
+if(A.bZ(o,q,s).w.a.a>800){o=p.c
 o.toString
 o=A.bZ(o,q,s).w
 r=p.c
 r.toString
 s=o.a.a<A.bZ(r,q,s).w.a.b
 o=s}else o=!1
-p.at=o?900:600},
+p.at=o?900:500},
 $S:0}
 A.a8R.prototype={
 $0(){var s=this.a
