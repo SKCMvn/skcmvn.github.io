@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "c313d93fc2a94a0b5f42ab47dfeee2fa",
+const RESOURCES = {"flutter_bootstrap.js": "5fd0d05e770d2d7970f67b0a656ccef4",
 "version.json": "05cabb68a05bc57b2892b2d5dce8eae5",
-"index.html": "53c3afab15911d301096e8563e076e12",
-"/": "53c3afab15911d301096e8563e076e12",
+"index.html": "148fc59ef4c750cc184553273cecaddd",
+"/": "148fc59ef4c750cc184553273cecaddd",
 "main.dart.js": "4379eda07af5934f46fabd42ef8a6983",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -928,7 +928,7 @@ const RESOURCES = {"flutter_bootstrap.js": "c313d93fc2a94a0b5f42ab47dfeee2fa",
 "assets/assets/books/eng-shareit2/033.jpg": "efbcafa3afb6e4b65d9e61fc9d2da448",
 "assets/assets/books/eng-shareit2/084_2.mp3": "493bb7c4178b8fa8224be627d5686447",
 "assets/assets/books/eng-shareit2/027_1.mp3": "6cf4e9b3a9ade3610a48f2b647d5e059",
-"assets/assets/books/books.json": "9285401b505e79b580bb204db5fd1257",
+"assets/assets/books/books.json": "3a0e8f6c5c2750ec28c3cafee8cfcd2b",
 "assets/assets/books/shareit2data.json": "5d75098d18aa54e8bf2030ff517b9a71",
 "assets/assets/books/shareit3data.json": "86d2e366c28e992f51c4fdc9e9a58d1b",
 "assets/assets/muiten.png": "b104851ce9cd1117b23780127c39c57d",
