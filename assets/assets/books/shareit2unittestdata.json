@@ -1,9 +1,9 @@
 {
-    "bookTitle":"Share It 1 Unit Test",
-    "prefixUrl":"assets/books/eng-shareit1/",
+    "bookTitle":"Share It 2 Unit Test",
+    "prefixUrl":"assets/books/eng-shareit2-unittest/",
     "units":[
         {
-            "unitTitle":"Unit 1: At School",
+            "unitTitle":"Unit 1",
             "pages": [    
                 { "pageNumber": 1, "imgUrl": "001.jpg", "sounds": [] },
                 { "pageNumber": 2, "imgUrl": "002.jpg", "sounds": [] },
@@ -14,19 +14,19 @@
             ]
         },
         {
-            "unitTitle":"Unit 2: Family And Friends",
+            "unitTitle":"Unit 2",
             "pages": [    
                 { "pageNumber": 7, "imgUrl": "007.jpg", "sounds": [] },
                 { "pageNumber": 8, "imgUrl": "008.jpg", "sounds": [] },
                 { "pageNumber": 9, "imgUrl": "009.jpg", "sounds": ["009_1.mp3", "009_2.mp3"] },
                 { "pageNumber": 10, "imgUrl": "010.jpg", "sounds": [] },
-                { "pageNumber": 11, "imgUrl": "011.jpg", "sounds": [] },
-                { "pageNumber": 12, "imgUrl": "012.jpg", "sounds": [] }
+                { "pageNumber": 11, "imgUrl": "011.jpg", "sounds": [] }
             ]
         },
         {
-            "unitTitle":"Unit 3: Jobs",
+            "unitTitle":"Unit 3",
             "pages": [    
+                { "pageNumber": 12, "imgUrl": "012.jpg", "sounds": [] },
                 { "pageNumber": 13, "imgUrl": "013.jpg", "sounds": [] },
                 { "pageNumber": 14, "imgUrl": "014.jpg", "sounds": ["014_1.mp3", "014_2.mp3"] },
                 { "pageNumber": 15, "imgUrl": "015.jpg", "sounds": [] },
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "unitTitle":"Unit 4: At Home",
+            "unitTitle":"Unit 4",
             "pages": [    
                 { "pageNumber": 17, "imgUrl": "017.jpg", "sounds": [] },
                 { "pageNumber": 18, "imgUrl": "018.jpg", "sounds": [] },
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "unitTitle":"Unit 5: My Pets",
+            "unitTitle":"Unit 5",
             "pages": [   
                 { "pageNumber": 22, "imgUrl": "022.jpg", "sounds": [] },
                 { "pageNumber": 23, "imgUrl": "023.jpg", "sounds": [] },
@@ -54,12 +54,13 @@
             ]
         },
         {
-            "unitTitle":"Unit 6: At The Fair",
+            "unitTitle":"Unit 6",
             "pages": [   
                 { "pageNumber": 27,  "imgUrl": "027.jpg", "sounds": [] },
                 { "pageNumber": 28,  "imgUrl": "028.jpg", "sounds": [] },
                 { "pageNumber": 29,  "imgUrl": "029.jpg", "sounds": ["029_1.mp3", "029_2.mp3"] },
-                { "pageNumber": 30,  "imgUrl": "030.jpg", "sounds": [] }
+                { "pageNumber": 30,  "imgUrl": "030.jpg", "sounds": [] },
+                { "pageNumber": 31,  "imgUrl": "031.jpg", "sounds": [] }
            ]
         }
     ]

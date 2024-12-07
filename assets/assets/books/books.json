@@ -34,12 +34,29 @@
       },
       {
         "id": 5,
+        "title": "Share It 2 Unit Test",
+        "countPage": 31,
+        "bookpath": "assets/books/shareit2unittestdata.json",
+        "img": "assets/books/eng-shareit2-unittest/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit2-unittest/"
+      },
+      {
+        "id": 6,
         "title": "Share It 3 Student Book",
         "countPage": 114,
         "bookpath": "assets/books/shareit3data.json",
         "img": "assets/books/eng-shareit3/001.jpg",
         "preFixAssest": "assets/books/eng-shareit3/"
+      },
+      {
+        "id": 7,
+        "title": "Share It 3 Unit Test",
+        "countPage": 31,
+        "bookpath": "assets/books/shareit3unittestdata.json",
+        "img": "assets/books/eng-shareit3-unittest/001.jpg",
+        "preFixAssest": "assets/books/eng-shareit3-unittest/"
       }
+
     ]
   }
   
